@@ -1,0 +1,153 @@
+Data Science - 
+
+ALgorithm development
+
+R programming language - used exclusively in this course sequence. 
+
+R studio 
+
+R script - Extension .R
+
+R markdown - .Rmd
+
+GitHub - We will be setting up Github as well... 
+
+This will be done in Github environment...
+
+
+Massive Online Open Course 
+
+Peer  Responses, Community TAs, 
+
+
+When asking a 	question include the version of R etc.,
+
+
+http://www.codecademy.com/ is fun and and a great way to start.
+
+
+try http://flatironschool.com/ruby.... I was impressed with the student demo day - Place to learn Ruby ....
+
+
+
+
+Amazon.com: Implementation Patterns (Addison-Wesley Signature Series (Beck)) eBook: Kent Beck: Kindle Store
+www.amazon.com/gp/product/B000XPRRVM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000XPRRVM&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming: Dustin Diaz, Ross Harmes: 9781590599082: Amazon.com: Books
+www.amazon.com/gp/product/159059908X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=159059908X&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
+www.amazon.com/gp/product/0132350882/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0132350882&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Patterns of Software, by Richard Gabriel
+dreamsongs.net/Files/PatternsOfSoftware.pdf
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Art of the Metaobject Protocol: Gregor Kiczales, Jim des Rivieres, Daniel G. Bobrow: 9780262610742: Amazon.com: Books
+www.amazon.com/gp/product/0262610744/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262610744&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers): Bruce A. Tate: 9781934356593: Amazon.com: Books
+www.amazon.com/gp/product/193435659X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=193435659X&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Amazon.com: Hackers & Painters: Big Ideas from the Computer Age eBook: Paul Graham: Kindle Store
+www.amazon.com/gp/product/B0026OR2NQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0026OR2NQ&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Haskell Road to Logic, Maths and Programming. Second Edition (Texts in Computing): Kees Doets, Jan van Eijck: 9780954300692: Amazon.com: Books
+www.amazon.com/gp/product/0954300696/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0954300696&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)): Federico Biancuzzi, Chromatic: 9780596515171: Amazon.com: Books
+www.amazon.com/gp/product/0596515170/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596515170&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Structure and Interpretation of Computer Programs
+mitpress.mit.edu/sicp/
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Architecture of Open Source Applications
+aosabook.org/en/index.html
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Practice of Programming (Addison-Wesley Professional Computing Series): Brian W. Kernighan, Rob Pike: 0785342615869: Amazon.com: Books
+www.amazon.com/gp/product/020161586X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=020161586X&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Six Essential Language Agnostic Programming Books - Scott Hanselman
+www.hanselman.com/blog/SixEssentialLanguageAgnosticProgrammingBooks.aspx
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts: 9780201485677: Amazon.com: Books
+www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0201485672&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Learn You Some Erlang for Great Good!
+learnyousomeerlang.com/
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Pragmatic Programmer: From Journeyman to Master: Andrew Hunt, David Thomas: 9780201616224: Amazon.com: Books
+www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=020161622X&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books
+www.amazon.com/gp/product/0735619670/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0735619670&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Working Effectively with Legacy Code: Michael Feathers: 0076092025986: Amazon.com: Books
+www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131177052&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Amazon.com: Coders at Work: Reflections on the Craft of Programming eBook: Peter Seibel: Kindle Store
+www.amazon.com/gp/product/B006RM2KBW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006RM2KBW&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Michael Abrash's Graphics Programming Black Book
+orangetide.com/graphics_programming_black_book/
+Added by hmason 1 year ago
+
+ View stats Tweet 
+Numerical Recipes
+www.nr.com/
+Added by hmason 1 year ago
+
+ View stats Tweet 
+The Elements of Computing Systems: Building a Modern Computer from First Principles: Noam Nisan, Shimon Schocken: 9780262640688: Amazon.com: Books
+www.amazon.com/gp/product/0262640686/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262640686&linkCode=as2&tag=quasika-20
+Added by hmason 1 year ago
+
+ View stats Tweet 
+
+Polite but relentless. 
+
+How to ask questions the right way is a key learning ingredient.
+
+Connecting from R to SQL databases
+
+
+R packages
+ Shiny - Allow users to interact with your R package. 

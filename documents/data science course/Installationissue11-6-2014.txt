@@ -1,0 +1,6 @@
+I installed R 3.12 for Windows and then I installed RStudio-0.98.1087 and then I am not able to get RStudio working. 
+I tried to get it going by executing ression.exe
+I get a rsession.exe - System error that says " The program can't start because Rgraphapp.dll is missing from 
+your computer. Try reinstalling the program to fix the problem. 
+
+Where do I get this Rgraphapp.dll?  Would that solve my problem of not being able to get RStudio to run?

@@ -1,0 +1,13 @@
+Package: rstudio
+Type: Package
+Title: Tools and Utilities for RStudio
+Version: 0.98.1087
+Date: 2012-09-17
+Author: RStudio
+Maintainer: RStudio <info@rstudio.com>
+Description: Interactive Plots for RStudio
+Depends: R (>= 2.10.0)
+Imports: utils
+License:
+LazyLoad: yes
+Built: R 2.12.0; ; 2014-10-29 23:18:23 UTC; windows
